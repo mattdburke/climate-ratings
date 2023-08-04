@@ -7,7 +7,7 @@ Code for the paper "Rising Temperatures, Falling Ratings: The Effect of Climate 
 ## Instructions for running the code
 
 * Download raw data and add to the `rawdata` folder. Some files are too large to be pushed to GitHub so there is a .gitignore in place.
-* Use the `setwd()` command to set your current working directory to the `Climate-Ratings/` parent directory.
+* Use the `setwd()` command to set your current working directory to the `climate-ratings/` parent directory.
 * Run `source("main.r")`
 
 Make sure the packages listed `load_dependencies.r` are installed, the code should do this for you if not. Details relating to the specific versions of the packages are given below as per a `sessionInfo()` command and the repo is accompanied with `renv` commands. 
