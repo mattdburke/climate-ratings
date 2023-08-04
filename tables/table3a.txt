@@ -1,0 +1,9 @@
+Accuracy results for out of sample
+34.26
+79.63
+94.44
+98.15
+Observations in training sample 536
+Observations in test sample 108
+Countries in training sample 109
+Countries in test sample 108

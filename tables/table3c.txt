@@ -1,0 +1,8 @@
+Accuracy results for out of sample investment grade set
+45.45
+87.27
+94.55
+Observations in training sample 270
+Observations in test sample 55
+Countries in training sample 60
+Countries in test sample 55

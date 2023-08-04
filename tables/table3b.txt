@@ -1,0 +1,6 @@
+Accuracy results for in sample
+68.01
+96.43
+99.84
+Observations in sample 644
+Countries in sample 109
