@@ -74,7 +74,7 @@ in `tables.r`
 
 ## Requirements
 
-This code is accompanied by an `renv` profile. Use the command `renv::restore()` to load the packages. Note this must be done with the `R 3.6.1`. There is also a `systemInfo()` print out given below.
+This code is accompanied by an `renv` profile. Use the command `renv::restore()` to load the packages. Note this must be done with the `R 3.6.1`. There is also a `sessionInfo()` print out given below.
 
 This code is run on the following R environment
 ```
