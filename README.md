@@ -6,7 +6,7 @@ Code for the paper "Rising Temperatures, Falling Ratings: The Effect of Climate 
 
 ## Instructions for running the code
 
-* Download raw data and add to the `rawdata` folder. Some files are too large to be pushed to GitHub so there is a .gitignore in place.
+* Download raw data from [here](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4869) and add to the `rawdata` folder. Some files are too large to be pushed to GitHub so there is a .gitignore in place.
 * Use the `setwd()` command to set your current working directory to the `climate-ratings/` parent directory.
 * Run `source("main.r")`
 
